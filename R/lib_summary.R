@@ -2,7 +2,7 @@
 #'
 #' Provides a brief summary of the package libraries on your machine
 #' 
-#' @param sizes Logical. If `TRUE`, the size of each library will be included in the output.
+#' @param sizes Logical. 
 #'
 #' @returns A `data.frame` containing the count of packages in each of the
 #'   user's libraries
