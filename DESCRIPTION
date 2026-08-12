@@ -7,7 +7,7 @@ Description: Provides functions for learning library and package information .
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
-URL: https://github.com/ma-ulloa/libminer
+URL: https://github.com/ma-ulloa/libminer, https://ma-ulloa.github.io/libminer/
 BugReports: https://github.com/ma-ulloa/libminer/issues
 Config/roxygen2/version: 8.1.0
 Suggests: 
